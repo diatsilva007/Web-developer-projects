@@ -1,24 +1,24 @@
-Tech's utilizadas:
-
-
+# 🧑‍💻 Tech's utilizadas: </br>
 
 - HTML5, CSS3, BootStrap 4, Java Script (ES6, ES7, ES8, ES9, ES10, ES11, ES12, ES13 e ES14), PHP, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais!
 
+
+
  
-Editores de código fonte:
+# ⌨️ Editores de código fonte: 🖥️
 
 - VSCode e Sublime Text
 
 
-Confira abaixo as Tech's e projetos:
+# 🧑‍💻 Confira abaixo as Tech's e projetos: 📁
 
-1) HTML5
+### 1) HTML5
 
 - Projeto UNES (Página institucional de uma universidade)
 
 
 
-2) CSS3
+### 2) CSS3
 
 - Projeto Anna Bella (Página web pessoal)
 
@@ -26,7 +26,7 @@ Confira abaixo as Tech's e projetos:
 
 
 
-3) CSS3 Intermediário & avançado
+### 3) CSS3 Intermediário & avançado
 
 - Projeto Notícias da Cidade (Portal de notícias)
 
@@ -34,13 +34,13 @@ Confira abaixo as Tech's e projetos:
 
 
 
-4) HTML5 e CSS3 - Recursos especiais
+### 4) HTML5 e CSS3 - Recursos especiais
 
   - Projeto Museu Nacional
 
 
 
-5) Bootstrap & Design responsivo
+### 5) Bootstrap & Design responsivo
 
 - Projeto Finans
 
@@ -48,7 +48,7 @@ Confira abaixo as Tech's e projetos:
 
 
 
-6) JavaScript
+### 6) JavaScript
 
 - App Calculadora
 
@@ -56,93 +56,93 @@ Confira abaixo as Tech's e projetos:
 
 
 
-7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
+### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
 
 - App Orçamento Pessoal (App para controle pessoal de finanças)
 
 
 
-8) Linguagem de Programação PHP  (Hypertext Preprocessor)
+### 8) Linguagem de Programação PHP  (Hypertext Preprocessor)
 
 - App Help Desk (App para abertura e acompanhamento de suportes técnicos)
 
 
 
-9) PHP e Orientação a Objetos
+### 9) PHP e Orientação a Objetos
 
 - App Send Mail (App para criação e envio de e-mails)
 
 
 
-10) PHP 8 - Desvendando as novas features
+### 10) PHP 8 - Desvendando as novas features
 
 - Aprenda as principais features do PHP 8.
 
 
 
-11) Banco de dados MySQL
+### 11) Banco de dados MySQL
 
 - Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
 
 
 
-12) Ajax
+### 12) Ajax
 
 - App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
 
 
 
-13) PHP com PDO
+### 13) PHP com PDO
 
 - App Lista de Tarefas (PHP com PDO e MySQL)
 
 
 
-14) Publicação de aplicações Web na Internet
+### 14) Publicação de aplicações Web na Internet
 
   - Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
 
 
 
-15) JQuery
+### 15) JQuery
 
 - App Dashboard (Criação de um dashboard integrando front-end, back-end e banco de dados)
 
 
 
-16) Padrão de arquitetura MVC com PHP
+### 16) Padrão de arquitetura MVC com PHP
 
 - Projeto miniframework (Criação de um miniframework baseado na arquitetura MVC)
 
 
 
-17) PHP 7 & MySQL - Projeto aplicado Twitter Clone
+### 17) PHP 7 & MySQL - Projeto aplicado Twitter Clone
 
 - Projeto Twitter Clone
 
 
 
-18) API com Slim Framework
+### 18) API com Slim Framework
 
 - Projeto API de Produtos
 
 
 
-19) Introdução ao WordPress (criação de blogs)
+### 19) Introdução ao WordPress (criação de blogs)
 
 - Projeto 10 minutos exercícios
 
 
 
-20) SASS
+### 20) SASS
 
 
 
-21) Criando aplicações Mobile com IONIC
+### 21) Criando aplicações Mobile com IONIC
 - Projeto Gasolina ou Álcool
 
 
-Tech's usadas e conhecimento adquirido:
+# 🧑‍💻 Tech's usadas e conhecimento adquirido: 🧠
 
 - Criar aplicações WEB: Do front ao back-end e banco de dados com HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC e Wordpress.
 - Integrar as principais tecnologias Web através de projetos reais. Tudo na prática!
