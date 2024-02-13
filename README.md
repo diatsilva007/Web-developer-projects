@@ -164,8 +164,9 @@
 - MVC with PHP: composer, controller, route, model, view, abstraction, reusing layout, database connection.
 - Twitter clone project: user registration and authentication, creating a timeline, searching for users, displaying tweets, following and unfollowing, pagination.
 - API with Slim framework: requests, routes, dependencies, middleware, responses, database, creating API.
-- SAAS: alignment, variables, interpolation, 
-
+- SAAS: alignment, variables, interpolation, for, while, each, functions, mixin, inheritance, control directives.
+- IONIC: components, buttons, data entry, data biding, angular, grids, navigation and template.
+- WordPress: installation, themes, customization, plugins, users, comments, page builder with elementor.
 
 # 🧑‍💻 Tech's utilizadas: 🖥️ </br>
 
