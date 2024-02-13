@@ -1,3 +1,172 @@
+# 🧑‍💻 Tech's used: 🖥️ </br>
+
+- HTML5, CSS3, BootStrap 4, Java Script (ES6, ES7, ES8, ES9, ES10, ES11, ES12, ES13 and ES14), PHP, Object Orientation, MySQL, PHP with PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress and much more!
+
+
+
+ 
+# ⌨️ Source code editors: 🖥️
+
+- VSCode and Sublime Text
+
+
+# 🧑‍💻 Check out the Tech's and projects below: 📁
+
+### 1) HTML5
+
+- UNES Project (Institutional page of a university)
+
+
+
+### 2) CSS3
+
+- Anna Bella Project (Personal website)
+
+- TecBlog Project (Technology blog)
+
+
+
+### 3) CSS3 Intermediate & advanced
+
+- City News Project (News portal)
+
+- Chalé Hotel Project (Advertising page)
+
+
+
+### 4) HTML5 and CSS3 - Special features
+
+  - National Museum Project
+
+
+
+### 5) Bootstrap & Responsive design
+
+- Finans Project
+
+- Spotify Clone
+
+
+
+### 6) JavaScript
+
+- Calculator App
+
+- App Game Mata Mosquito (A sensational game that will challenge your knowledge of programming logic)
+
+
+
+### 7) Modern JavaScript (ECMAScript 2015 - ES6) and Object Orientation
+
+- App Personal Budget (App for personal finance control)
+
+
+
+### 8) PHP Programming Language (Hypertext Preprocessor)
+
+- App Help Desk (App for opening and monitoring technical support)
+
+
+
+### 9) PHP and Object Orientation
+
+- App Send Mail (App for creating and sending e-mails)
+
+
+
+### 10) PHP 8 - Unveiling the new features
+
+- Learn the main features of PHP 8.
+
+
+
+### 11) MySQL Database
+
+- Virtual Store Database Project (Implementation of a virtual store database)
+
+
+
+### 12) Ajax
+
+- App Address Search (Learn how to make HTTP requests via XMLHttpRequest for API's)
+
+
+
+### 13) PHP with PDO
+
+- To-Do List App (PHP with PDO and MySQL)
+
+
+
+### 14) Publishing web applications on the Internet
+
+  - Publishing web applications (PHP and MySQL) using InfintyFree
+
+
+
+### 15) JQuery
+
+- App Dashboard (Creation of a dashboard integrating front-end, back-end and database)
+
+
+
+### 16) MVC architecture pattern with PHP
+
+- Miniframework project (Creation of a miniframework based on the MVC architecture)
+
+
+
+### 17) PHP 7 & MySQL - Twitter Clone applied project
+
+- Twitter Clone project
+
+
+
+### 18) API with Slim Framework
+
+- Product API project
+
+
+
+### 19) Introduction to WordPress (blog creation)
+
+- 10-minute exercises project
+
+
+
+### 20) SASS
+
+
+
+### 21) Creating Mobile applications with IONIC
+- Gasoline or Alcohol Project
+
+
+# 🧑‍💻 Tech's used and knowledge acquired: 🧠
+
+- Creating WEB applications: From front to back-end and database with HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC and Wordpress.
+- Integrate the main web technologies through real projects. All in practice!
+- How to turn your web development skills into a paid activity, working from wherever you want.
+- Create mobile applications connected to web applications using IONIC technology.
+- HTML5: headers, lists, images, links, tables, forms, hear, nav, footer, article, section aside.
+- CSS3 Intermediate: selectors, div & span, colors, box model, floating elements, positioning, formatting links.
+- Advanced CSS3: inheritance, specificity, vertical and horizontal navigation bar, tabs, liquid layouts, fixed width, parallax, custom fonts.
+- Special features: normalize css, rounded corners, gradients, shadows, animations, transitions, flexbox.
+- Bootstrap: responsive, texts, alignments, colors, media query, buttons, navigation bar, lists, inputs, alerts, tables, cards, grids, flexbox.
+- Javascript: variables, array, conditionals, comparison operators, logical operators, functions, events, DOM, loops, BOM.
+- ES6: var and let, object orientation, literals, prototype, web storage, array functions.
+- PHP7: variables, arrays, conditionals, comparison and logical operators, functions, object orientation, abstraction, inheritance, polymorphism, interfaces.
+- MySQL database: insert, update, select, delete, filters, comparison and logical operators, relationships, inner join, left join, right join.
+- Ajax: synchronous requests, asynchronous requests, XMLHttpRequest, request states, status, XML notation, JSON notation.
+- PHP with PDO and MySQL: connecting to a database, executing SQL statements, fetch, fetch all, foreach, SQL injection.
+- Publishing web applications on the Internet: DNS, hosting, cPainel, FTP, PHP and MySQL configuration.
+- jQuery: selecting and manipulating HTML elements, navigating between elements, manipulating CSS, keyboard, mouse and form events, animations, ajax.
+- MVC with PHP: composer, controller, route, model, view, abstraction, reusing layout, database connection.
+- Twitter clone project: user registration and authentication, creating a timeline, searching for users, displaying tweets, following and unfollowing, pagination.
+- API with Slim framework: requests, routes, dependencies, middleware, responses, database, creating API.
+- SAAS: alignment, variables, interpolation, 
+
+
 # 🧑‍💻 Tech's utilizadas: 🖥️ </br>
 
 - HTML5, CSS3, BootStrap 4, Java Script (ES6, ES7, ES8, ES9, ES10, ES11, ES12, ES13 e ES14), PHP, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais!
