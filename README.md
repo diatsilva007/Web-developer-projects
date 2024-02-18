@@ -7,7 +7,7 @@
  
 # ⌨️ Source code editors: 🖥️
 
-- VSCode and Sublime Text
+- VSCode
 
 
 # 🧑‍💻 Check out the Tech's and projects below: 📁
@@ -177,7 +177,7 @@
  
 # ⌨️ Editores de código fonte: 🖥️
 
-- VSCode e Sublime Text
+- VSCode
 
 
 # 🧑‍💻 Confira abaixo as Tech's e projetos: 📁
