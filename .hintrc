@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "on"
+      }
+    ],
+    "meta-viewport": "on",
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "on"
+      }
+    ]
+  }
+}
