@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" lanng="pt-br">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Elementos Flutuantes na prática</title>
+
+    <style>
+
+        body {
+            background: #f4f4f4;
+        }
+
+        #principal {
+            width: 920px;
+        }
+
+        .noticia {
+            background: #e5e5e5;
+            padding: 5px;
+            width: 280px;
+            margin: 7px;
+            float: left;
+        }
+
+        .imagem-galeria {
+            background: white;
+            width: 265px;
+            padding: 5px;
+            float: left;
+            margin: 15px;    
+        }
+
+        .clear {
+            clear: both;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+
+    <!--Início div principal-->
+    <div id="principal">
+
+        
+        <div> <!--Início div notícias-->
+
+            <div class="noticia">
+                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 1</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                    Labore, exercitationem! Incidunt cumque expedita alias ratione fuga aspernatur, 
+                    quos quo delectus asperiores. Facilis earum sit dolorem ab quia culpa consectetur numquam?
+                </p>
+                <a href="">Veja mais</a>
+            </div>
+
+            <div class="noticia">
+                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 2</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                    Labore, exercitationem! Incidunt cumque expedita alias ratione fuga aspernatur, 
+                    quos quo delectus asperiores. Facilis earum sit dolorem ab quia culpa consectetur numquam?
+                </p>
+                <a href="">Veja mais</a>
+            </div>
+
+            <div class="noticia">
+                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 3</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                    Labore, exercitationem! Incidunt cumque expedita alias ratione fuga aspernatur, 
+                    quos quo delectus asperiores. Facilis earum sit dolorem ab quia culpa consectetur numquam?
+                </p>
+                <a href="">Veja mais</a>
+            </div>
+
+        </div> <!--Fim div notícia-->
+
+        <div class="clear"></div>
+
+        <div>
+            
+            <div class="imagem-galeria">
+                <img src="imagens/imagem1.png" alt="Imagem 1">
+                <p>Resumo</p>
+            </div>
+            
+            <div class="imagem-galeria">
+                <img src="imagens/imagem2.png" alt="Imagem 2">
+                <p>Resumo 2</p>
+            </div>
+            
+            <div class="imagem-galeria">
+                <img src="imagens/imagem3.png" alt="Imagem 3">
+                <p>Resumo 3</p>
+            </div>
+            
+            <div class="imagem-galeria">
+                <img src="imagens/imagem4.png" alt="Imagem 4">
+                <p>Resumo 4</p>
+            </div>
+            
+            <div class="imagem-galeria">
+                <img src="imagens/imagem5.png" alt="Imagem 5">
+                <p>Resumo 5</p>
+            </div>
+            
+        </div>
+
+    </div> <!--Fim div principal-->
+
+</body>
+
+</html>
