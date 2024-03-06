@@ -66,3 +66,18 @@ a regra mais específica será aplicada
 (Terá preceência sobre regras mais gerais)
 */
 
+* {
+    color: red;
+}
+
+h2 { /* 3º */
+    color: blue;
+}
+
+h2.verde { /* 2º */
+    color: green;
+}
+
+h2#amarelo { /* 1º */
+    color: yellow;
+}
