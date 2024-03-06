@@ -45,7 +45,24 @@ h1+p {
 }
 */
 
-/* Seletor de irmão geral */
+/* Seletor de irmão geral 
 h1~p {
     color: blue;
 }
+*/
+
+/* Seletores iguais, exceção important 
+#pagina p {
+    color: red;
+}
+
+#pagina p {
+    color: blue;
+}
+*/
+
+/* Se um seletor for mais específico que outro,
+a regra mais específica será aplicada
+(Terá preceência sobre regras mais gerais)
+*/
+
