@@ -128,3 +128,13 @@ a:hover {
     background-color: #f99200;
     color: white;
 }
+
+#home #navegacao .home a, 
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contatos #navegacao .contatos a  {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: white;
+}
