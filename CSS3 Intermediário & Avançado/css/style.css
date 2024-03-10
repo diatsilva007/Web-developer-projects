@@ -188,7 +188,7 @@ ul a:hover {
 */
 
 /*********************************
-  Barra de navegação com abas */
+  Barra de navegação com abas 
 
 body {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -202,7 +202,7 @@ ul {
 }
 
 ul li {
-    /*border: 1px solid red;*/
+    /*border: 1px solid red;
     float: left;
     background: url(../images/aba-direita.png) no-repeat top right;
 }
@@ -227,4 +227,41 @@ ul #atual {
 ul #atual a {
     background: url(../images/aba-esquerda-atual.png) no-repeat top left;
 }
+*/
+
+/****************************************
+ Layouts */
+
+ body {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background: #f2f2f2;
+ }
+
+ #container {
+    width: 720px;
+    margin: 0 auto;
+    background: white;
+ }
+
+ #marca {
+    height: 100px;
+    background: #9e9e9e;
+    text-align: center;
+    line-height: 100px;
+ }
+
+ #conteudo {
+    border: 1px solid red;
+    width: 520px;
+    float: right;   
+ }
+
+ #navegacao {
+    border: 1px solid red;
+    width: 180px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
+ }
 
