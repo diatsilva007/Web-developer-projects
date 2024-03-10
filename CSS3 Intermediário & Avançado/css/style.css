@@ -142,9 +142,9 @@ a:hover {
 */
 
 /*******************************
-Barra de navegação horizontal */
+Barra de navegação horizontal 
 ul {
-    /*border: 1px solid red;*/
+    /*border: 1px solid red;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -158,7 +158,7 @@ ul li {
 }
 
 ul a {
-    /*border-left: 1px solid red;*/
+    /*border-left: 1px solid red;
     display: block;
     padding: 0 2em;
     line-height: 2.2em;
@@ -184,4 +184,32 @@ ul a:hover {
 #contatos #navegacao .contatos a  {
     color: #085662;
     background: #44cade;
+}
+*/
+
+/*********************************
+  Barra de navegação com abas */
+
+body {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+}
+
+ul li {
+    border: 1px solid red;
+    float: left;
+    background: url(../images/aba-direita.png) no-repeat top right;
+}
+
+li a {
+    display: block;
+    padding: 0 2em;
+    line-height: 3em;
+    text-decoration: none;
 }
