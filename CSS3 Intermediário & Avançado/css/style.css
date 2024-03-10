@@ -202,7 +202,7 @@ ul {
 }
 
 ul li {
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     float: left;
     background: url(../images/aba-direita.png) no-repeat top right;
 }
@@ -212,4 +212,19 @@ li a {
     padding: 0 2em;
     line-height: 3em;
     text-decoration: none;
+    background: url(../images/aba-esquerda.png) no-repeat top left;
+    color: white;
 }
+
+ul a:hover {
+    color: #894a1f;
+}
+
+ul #atual {
+    background: url(../images/aba-direita-atual.png) no-repeat top left;
+}
+
+ul #atual a {
+    background: url(../images/aba-esquerda-atual.png) no-repeat top left;
+}
+
