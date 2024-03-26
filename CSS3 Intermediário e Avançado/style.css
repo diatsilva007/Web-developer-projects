@@ -42,8 +42,15 @@ h1+p {
 	color: red;
 }
 **************************************
-Seletor de irmão geral*/
+Seletor de irmão geral
 h1~p {
 	color: pink;
+}
+*/
+
+/***********************************
+Herança e especificidade */
+body {
+	color: red;
 }
 
