@@ -112,10 +112,21 @@ h2#amarelo {/*1
 	text-decoration: none;
 	text-indent: 40px;
 	line-height: 40px;
-	background: url(../images/menu.png) no-repeat left bottom;
+	background: #f7b600 url(../images/menu.png) no-repeat left bottom;
  }
 
  a:hover {
 	background-position: right bottom;
+	background-color: #f99200;
 	color: white;
  }
+
+ #home #navegacao .home a,
+ #sobre #navegacao .sobre a,
+ #servicos #navegacao .servicos a,
+ #noticias #navegacao .noticias a,
+ #contato #navegacao .contato a {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: white;
+ }	
