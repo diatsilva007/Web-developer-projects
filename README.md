@@ -1,9 +1,10 @@
+# <h1 align="center">👨‍💻 Web developing + projects 📁</h1>
+
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Dev Burguer Project" width="1280" height="440">
+
 # 🧑‍💻 Tech's used: 🖥️ </br>
 
 - HTML5, CSS3, BootStrap 4, Java Script (ES6, ES7, ES8, ES9, ES10, ES11, ES12, ES13 and ES14), PHP, Object Orientation, MySQL, PHP with PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress and much more!
-
-
-
  
 # ⌨️ Source code editors: 🖥️
 
@@ -142,7 +143,7 @@
 - Gasoline or Alcohol Project
 
 
-# 🧑‍💻 Tech's used and knowledge acquired: 🧠
+# 🧠 Knowledge acquired: 
 
 - Creating WEB applications: From front to back-end and database with HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC and Wordpress.
 - Integrate the main web technologies through real projects. All in practice!
@@ -168,7 +169,9 @@
 - IONIC: components, buttons, data entry, data biding, angular, grids, navigation and template.
 - WordPress: installation, themes, customization, plugins, users, comments, page builder with elementor.
 
-# 🧑‍💻 Tech's utilizadas: 🖥️ </br>
+# <h1 align="center">👨‍💻 Desenvolvimento web + projetos 📁</h1>
+
+# 🧑‍💻 Tech's: 🖥️ </br>
 
 - HTML5, CSS3, BootStrap 4, Java Script (ES6, ES7, ES8, ES9, ES10, ES11, ES12, ES13 e ES14), PHP, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais!
 
@@ -180,7 +183,7 @@
 - VSCode
 
 
-# 🧑‍💻 Confira abaixo as Tech's e projetos: 📁
+# 🧑‍💻 Tech's e projetos: 📁
 
 ### 1) HTML5
 
@@ -312,7 +315,7 @@
 - Projeto Gasolina ou Álcool
 
 
-# 🧑‍💻 Tech's usadas e conhecimento adquirido: 🧠
+# 🧠 Conhecimento adquirido:
 
 - Criar aplicações WEB: Do front ao back-end e banco de dados com HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC e Wordpress.
 - Integrar as principais tecnologias Web através de projetos reais. Tudo na prática!
