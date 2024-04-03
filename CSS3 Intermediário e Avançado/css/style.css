@@ -174,7 +174,7 @@ h2#amarelo {/*1
  #sobre #navegacao .sobre a,
  #servicos #navegacao .servicos a,
  #noticias #navegacao .noticias a,
- #contato #navegacao .contato a {
+ #contato #navegaceao .contato a {
 	color: #085662;
 	background: #44cade;
  }	
@@ -183,6 +183,7 @@ h2#amarelo {/*1
  /******************************
  Barra de navegação com abas */
 
+ /*
  body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
  }
@@ -205,7 +206,7 @@ h2#amarelo {/*1
 	line-height: 3em;
 	text-decoration: none;
 	background: url(../images/aba-esquerda.png) no-repeat top left;
-	color: white;
+	color: white;e
  }
 
  ul a:hover {
@@ -218,4 +219,26 @@ h2#amarelo {/*1
 
  ul #atual a {
 	background: url(../images/aba-esquerda-atual.png) no-repeat top left; 
+ }
+ */
+
+ /************************************************************************
+ Layouts **/
+
+ body {
+	font-family: 'Trebuchet MS', 'Helvetica', Arial, sans-serif;
+	background: #f2f2f2;
+ }
+
+ #container {
+	width: 720px;
+	margin: 0 auto;
+	background: white;
+ }
+
+ #marca {
+	height: 100px;
+	background: #9E9E9E;
+	text-align: center;
+	line-height: 100px;
  }
