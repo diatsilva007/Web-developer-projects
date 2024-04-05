@@ -1,6 +1,6 @@
 # <h1 align="center">👨‍💻 Web developing + projects 📁</h1>
 
-<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Dev Burguer Project" width="1280" height="440">
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Dev Burguer Project" width="1280" height="340">
 
 # 🧑‍💻 Tech's used: 🖥️ </br>
 
