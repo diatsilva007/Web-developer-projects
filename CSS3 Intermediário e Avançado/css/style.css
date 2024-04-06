@@ -225,13 +225,14 @@ h2#amarelo {/*1
  /************************************************************************
  Layouts **/
 
+ /*
  body {
 	font-family: 'Trebuchet MS', 'Helvetica', Arial, sans-serif;
 	background: #f2f2f2;
  }
 
  #container {
-	width: 960px; /*720px*/
+	width: 960px; /*720px*
 	margin: 0 auto;
 	background: #fff url(../images/coluna.png) repeat-y left top;
 	min-width: 720px;
@@ -254,21 +255,22 @@ h2#amarelo {/*1
 	}
 	*/
 
+	/*
 	#conteudo {
-		width: 75%;/*520px -> 75*/	
+		width: 75%;/*520px -> 75	
 		float: right;
 	}
 
 	#navegacao {	
-		width: 23%;/*180px -> 25*/
+		width: 23%;/*180px -> 25
 		float: left;
 		padding-top: 20px;
 		padding-bottom: 20px;
-		/*background: #d1d1d1;*/
+		/*background: #d1d1d1;
 	}
 
 	#conteudo-principal {
-		width: 63%; /*320px -> 64*/
+		width: 63%; /*320px -> 64
 		float: left;
 	}
 
@@ -279,7 +281,7 @@ h2#amarelo {/*1
 	}
 
 	#conteudo-secundario {
-		width: 34%; /*180px -> 36*/
+		width: 34%; /*180px -> 36
 		float: right;
 		background: #d1d1d1;
 	}
@@ -305,3 +307,43 @@ h2#amarelo {/*1
 		background: #c4c4c4;
 		padding: 5px;
 	}
+	*/
+
+	/*******************************
+	Estilizando tabelas */
+
+	body {
+		font-family: 'Trebuchet MS', 'Helvetica','Lucida Sans Unicode', 
+		'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	}
+
+	table {
+		width: 600px;
+		border-collapse: separate; /*collapse*/
+	}
+
+	th, td {
+		padding: 7px;
+	}
+
+	th {
+		text-transform: uppercase;
+		border-top: 1px solid #999;
+		border-bottom: 1px solid #111;
+		text-align: left;
+		font-size: 90%;
+		letter-spacing: 0.5em;
+	}
+
+	tr.alternado {
+		background-color: #efefef;
+	}
+
+	tr:hover {
+		background-color: #c3e6e5;
+	}
+
+	.numero {
+		text-align: right;
+	}
+
