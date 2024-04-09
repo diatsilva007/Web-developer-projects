@@ -378,3 +378,11 @@ h2#amarelo {/*1
 		width: 20em;
 		height: 10em;
 	}
+
+	input.radio, input.checkbox, input.submit {
+		width: auto;
+	}
+
+	.radio {
+		margin-right: 1em;
+	}
