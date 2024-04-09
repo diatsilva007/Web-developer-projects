@@ -312,14 +312,16 @@ h2#amarelo {/*1
 	/*******************************
 	Estilizando tabelas */
 
+	/*
 	body {
 		font-family: 'Trebuchet MS', 'Helvetica','Lucida Sans Unicode', 
 		'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	}
 
+	
 	table {
 		width: 600px;
-		border-collapse: separate; /*collapse*/
+		border-collapse: separate; /*collapse
 	}
 
 	th, td {
@@ -346,4 +348,6 @@ h2#amarelo {/*1
 	.numero {
 		text-align: right;
 	}
+	*/
 
+	
