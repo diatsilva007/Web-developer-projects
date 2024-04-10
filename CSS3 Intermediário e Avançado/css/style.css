@@ -350,6 +350,10 @@ h2#amarelo {/*1
 	}
 	*/
 
+	/*************************************************************
+	 Estilizando formulários**/
+
+	 /*
 	body {
 		font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 	}
@@ -386,3 +390,15 @@ h2#amarelo {/*1
 	.radio {
 		margin-right: 1em;
 	}
+	*/
+
+	/********************************************
+	 Estilizando formulários parte 2**/
+
+	 body {
+		font-family: 'Trebuchet MS', 'Helvetica', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 
+		Arial, sans-serif;
+		background: #643d87 url(../images/fundo.jpg) no-repeat top center;
+	 }
+
+
