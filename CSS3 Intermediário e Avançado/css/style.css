@@ -393,7 +393,7 @@ h2#amarelo {/*1
 	*/
 
 	/***************************************************************************************************
-	 Estilizando formulários parte 2 **/
+	 Estilizando formulários parte 2 
 
 	 body {
 		font-family: 'Trebuchet MS', 'Helvetica', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 
@@ -453,6 +453,45 @@ h2#amarelo {/*1
 		background: -o-linear-gradient(to bottom, #faa600, #f68a00);
 		background: linear-gradient(to bottom, #faa600, #f68a00);
 	 }
+	 */
 
+	 /*******************************************************************
+	 	Arredondamento com imagens */
 
+	.caixa {
+		width: 400px;
+		background: #dedede url(../images/fundo-arredondamento.png) repeat-y;
+	}
+
+	.caixa h2 {
+		padding: 10px 20px 0 20px;
+		background: url(../images/topo2.png) no-repeat left top;
+	}
+
+	.caixa p {
+		padding: 0 20px;
+		margin-bottom: 0;
+	}
+
+	.caixa .ultimo {
+		background: url(../images/baixo2.png) no-repeat left bottom;
+		width: 400px;
+		height: 24px;
+	}
+
+	/*
+	.caixa {
+		width: 400px;
+		background: #dedede url(../images/topo2.png) no-repeat left top;
+	}
+
+	.caixa h2 {
+		padding: 10px 20px 0 20px;
+	}
+
+	.caixa p {
+		padding: 0px 20px 20px 20px;
+		background: url(../images/baixo2.png) no-repeat left bottom;
+	}
+	*/	
 
