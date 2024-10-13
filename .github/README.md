@@ -1,6 +1,6 @@
 # <h1 align="center">👨‍💻 Web developing + projects 📁</h1>
 
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=29%&color=GREEN&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=34%&color=GREEN&style=for-the-badge"/></p>
 
 <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="Dev Burguer Project" width="1280" height="340">
 
